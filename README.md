@@ -1,4 +1,4 @@
-# ƒTƒ“ƒvƒ‹
+# sample
 
 ## Project setup
 ```
